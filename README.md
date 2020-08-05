@@ -21,6 +21,3 @@ https://github.com/Anastasiya-Grigorus/success-console-games
 ----
 
 
-```python
-
-```
