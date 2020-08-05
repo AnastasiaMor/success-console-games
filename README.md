@@ -13,7 +13,7 @@
 - визуализация данных
 
 #### Инструменты
-Python, библиотеки Matplotlib, Scipy, Pandas.
+- Python, библиотеки Matplotlib, Scipy, Pandas.
 
 #### Ссылка на проект:
 https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/success-console-games
@@ -33,7 +33,7 @@ https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/suc
 - визуализация данных
 
 #### Инструменты
-SQL, Python, библиотеки Pandas, Matplotlib, requests/BeautifulSoup
+- SQL, Python, библиотеки Pandas, Matplotlib, requests/BeautifulSoup
 
 #### Ссылка на проект:
 https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/airline-users
