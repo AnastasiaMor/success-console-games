@@ -8,15 +8,6 @@
 
 Исследование рынка игр: используя данные о продажах игр, оценках, жанрах и платформах, выявила закономерности и определила признаки успешности игр. 
 
-#### Стек:
-- проверка статистических гипотез
-- составление портрета пользователя
-- определение ключевых показателей, влияющих на успешность проекта
-- визуализация данных
-
-#### Инструменты
-- Python, библиотеки Matplotlib, Scipy, Pandas.
-
 #### Ссылка на проект:
 https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/success-console-games
 
@@ -28,15 +19,6 @@ https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/suc
 
 Исследование данных авиакомпании: нужно понять предпочтения пользователей, покупающих билеты на те или иные направления. 
 
-#### Стек:
-- выгрузка и подготовка данных
-- парсинг данных с веб-ресурса
-- проверка статистических гипотез
-- визуализация данных
-
-#### Инструменты
-- SQL, Python, библиотеки Pandas, Matplotlib, requests/BeautifulSoup
-
 #### Ссылка на проект:
 https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/airline-users
 
@@ -47,15 +29,6 @@ https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/air
 #### Описание проекта
 
 Оптимизация маркетинговых затрат веб-ресурса. Мы должны были изучить как люди пользуются продуктом, когда начинают покупать, а также сколько денег приносит каждый клиенты после того, как начинает окупаться.
-
-#### Стек:
-- когортный анализ
-- подсчет продуктовых метрик
-- подсчет юнит-экономики
-- визуализация данных
-
-#### Инструменты
-- Python, библиотеки Pandas, Matplotlib
 
 #### Ссылка на проект:
 https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/website-marketing-costs
