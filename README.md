@@ -42,6 +42,6 @@ https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/web
 Подготовка списка гипотез для увеличения выручки интернет-магазина и анализ результатов A/B-теста.
 
 #### Ссылка на проект:
-https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/website-marketing-costs
+https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/ab-test
 
 
