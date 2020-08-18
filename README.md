@@ -33,3 +33,15 @@ https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/air
 #### Ссылка на проект:
 https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/website-marketing-costs
 
+---
+
+## 4. Приоритизация гипотез и анализ результатов A/B-теста
+
+#### Описание проекта
+
+Подготовка списка гипотез для увеличения выручки интернет-магазина и анализ результатов A/B-теста.
+
+#### Ссылка на проект:
+https://github.com/Anastasiya-Grigorus/yandex-praktikum-projects/tree/master/website-marketing-costs
+
+
